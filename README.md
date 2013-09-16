@@ -7,3 +7,5 @@ weixin
 java web 的形式对群组成员简单的浏览、群发
 
 @author hudq snailxr
+
+snailxr@163.com

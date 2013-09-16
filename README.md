@@ -4,7 +4,6 @@ weixin
 微信群发
 
 
-根据以下链接的修改了一下，可进行分组查看，群发
-http://download.csdn.net/detail/wuche2010/5639735
+java web 的形式对群组成员简单的浏览、群发
 
 @author hudq snailxr
